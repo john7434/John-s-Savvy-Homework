@@ -11,6 +11,3 @@ if (numberOfToppings < 10) {
 } else {
   console.log("A whole lot of pizza.");
 }
-for (let i = 1; i <= numberOfToppings; i+) {
-  console.log(i);
-}
