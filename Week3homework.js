@@ -12,10 +12,10 @@ const pizzaOrder = {
 console.log(
   pizzaOrder.size[1],
   pizzaOrder.crust[0],
-  "pizza with",
+  "pizza size",
   pizzaToppings[0],
   pizzaToppings[2],
-  "is firing up!"
+  "cooking it up"
 );
 const preparePizza = {
   size: pizzaOrder.size[1],
